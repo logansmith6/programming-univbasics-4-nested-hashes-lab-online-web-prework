@@ -142,9 +142,9 @@ programmer_hash = {
 	:dennis_ritchie =>
 	{
 		:languages =>
-		
+
 			 "Assembly"
-		
+
 	}
 }
 end
