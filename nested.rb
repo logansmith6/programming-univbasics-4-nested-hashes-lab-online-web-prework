@@ -143,7 +143,7 @@ programmer_hash = {
 	{
 		:languages =>
 		{
-			>> "Assembly"
+			 "Assembly"
 		}
 	}
 }
