@@ -39,7 +39,7 @@ programmer_hash[:hopper] = programmer_hash[:alan_kay][:known_for]
         }
 
      }
-
+programmer_hash
 end
 
 def dennis_ritchies_language
