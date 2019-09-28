@@ -139,7 +139,7 @@ def adding_to_dennis
         }
      }
 programmer_hash = {
-	:dennis_ritchie => 
+	:dennis_ritchie =>
 	{
 		:languages =>
 		{
